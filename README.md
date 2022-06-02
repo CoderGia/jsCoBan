@@ -1,2 +1,4 @@
 # jsCoBan
-baiTap1
+Bai tap js buoi-1
+Nguyen Hoang Huan - FE32E
+
