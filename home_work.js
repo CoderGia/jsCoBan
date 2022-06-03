@@ -62,8 +62,8 @@ console.log("Số tiền VND được quy đổi: " + luongTienVnd);
 
 var chieuDai = 25;
 var chieuRong = 7;
-chuVi = (chieuDai + chieuRong) * 2;
-dienTich = chieuDai * chieuRong;
+var chuVi = (chieuDai + chieuRong) * 2;
+var dienTich = chieuDai * chieuRong;
 console.log("Chu vi hình chữ nhật là: " + chuVi);
 console.log("Diện tích hình chữ nhật là: " + dienTich);
 
