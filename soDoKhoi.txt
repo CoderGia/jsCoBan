@@ -1,0 +1,34 @@
+sơ đồ khối:
+bài 1:
+- Đầu vào: + Lương 1 ngày của nhân viên
+	   + Số ngày nhân viên làm
+- Thuật toán: Lương = Lương 1 ngày * số ngày nhân viên làm
+- Đầu ra: Lương
+
+bài 2:
+- Đầu vào: Giá trị của 5 số 
+- Thuật toán: + Tính tổng 5 số (sum)
+	      + Giá trị trung bình (average) = sum/5	
+- Đầu ra: Giá trị trung bình
+
+bài 3:
+- Đầu vào: + Tỉ giá giữa đồng USD và đồng VND: 1 USD = 23500 VND
+	   + Số lượng tiền USD của người dùng 
+- Thuật toán: Số tiền VND được quy đổi = số lượng USD * tỉ giá 
+	      	
+- Đầu ra: Số tiền VND được quy đổi
+
+bài 4:
+- Đầu vào: + Độ dài chiều dài, độ dài chiều rộng 
+- Thuật toán: + Chu vi = (chiều dài + chiều rộng) * 2 
+	      + Diện tích = chiều dài * chiều rộng
+- Đầu ra: + Chu vi
+	  + Diện tích
+
+bài 5: 
+- Đầu vào: + Số có 2 chữ số n
+- Thuật toán: + Tính hàng chục: /10 làm tròn xuống
+	      + Tính hàng đơn vị: %10
+	      + Tổng 2 ký số = hàng chục + hàng đơn vị
+- Đầu ra: Tổng 2 ký số
+	 
